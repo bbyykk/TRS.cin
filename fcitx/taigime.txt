@@ -2459,6 +2459,7 @@ tsiat4sing2	節省
 tsiat4sing2	tsiat-síng
 tsiatsing	節省
 tsiatsing	tsiat-síng
+a3	à
 bok8kue1	木瓜
 bok8kue1	bo̍k-kue
 bokkue	木瓜
